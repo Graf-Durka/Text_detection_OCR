@@ -1,6 +1,6 @@
 # EAST&OCR_Text_detection
 
-DA-3-33
+CV-3-33
 
 # About
 
